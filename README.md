@@ -1,8 +1,8 @@
 # ANAVI Knob 1
 
-**Open source programmable keypad with 3 rotary encoders**
+**Open source mini programmable keypad with a rotary encoder**
 
-ANAVI Knob 1 is an open source, custom-programmable, mini 2-key keyboard/keypad. Each rotary encoder is also a key and can be reprogrammed to activate a macro or even a dedicated shortcut.
+ANAVI Knob 1 is a mini mechanical keyboard with a clickable rotary encoder, USB-C and Raspberry Pi RP2040 microcontroller. It is a tiny input device with a single rotary encoder with a clickable switch and a RGB LED. You can turn it left, you can turn it right, and you can click it. It is fully programmable and there is an I²C slot you can use to add peripherals, for example a mini OLED display.
 
 ANAVI Knob 1 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/).
 
