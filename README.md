@@ -8,7 +8,7 @@ ANAVI Knob 1 is a mini mechanical keyboard with a clickable rotary encoder, USB-
 
 ![ANAVI Knob 1](https://github.com/AnaviTechnology/anavi-knob-1/blob/main/images/anavi-knob-1-02.jpg?raw=true)
 
-ANAVI Knob 1 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/).
+ANAVI Knob 1 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad.org/).
 
 [ANAVI Knob 1, ANAVI Knobs 3 and ANAVI Macro Pad 10 were brought to market through a crowdfunding campaign at Crowd Supply](https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-10). For more details please visit https://anavi.technology/
 
